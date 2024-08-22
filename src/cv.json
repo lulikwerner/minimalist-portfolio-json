@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "GIT",
+      "name": "PHP",
       "level": "Master",
       "keywords": [
         "HTML",
@@ -268,16 +268,11 @@
       "isActive":true,
       "description": "Web site for an NGO",
       "highlights": [
-<<<<<<< HEAD
         "Wordpress", "PHP", "Javascript", "CSS"
-=======
-        "Wordpress"
->>>>>>> e6fbe44586a0eb952c23d9dfecea0d2b2f459f4a
       ],
       "url": "https://agendaantartica.org/en/home/"
     },
     {
-<<<<<<< HEAD
       "name": "ZULKI",
       "isActive":true,
       "description": " Ecommerce for a retail company ",
@@ -314,8 +309,6 @@
       "url": "https://backend-commerce-dev.onrender.com/"
     },
     {
-=======
->>>>>>> e6fbe44586a0eb952c23d9dfecea0d2b2f459f4a
       "name": "OYL FASHION",
       "isActive":true,
       "description": "Fashion retailer landing page",
@@ -334,18 +327,6 @@
       "url": "https://miajewelers.netlify.app/"
     },
     {
-<<<<<<< HEAD
-=======
-      "name": "ZULKI",
-      "isActive":true,
-      "description": " Ecommerce for a retail company ",
-      "highlights": [
-      "Wordpress"
-      ],
-      "url": "https://www.zulki.pro/"
-    },
-    {
->>>>>>> e6fbe44586a0eb952c23d9dfecea0d2b2f459f4a
       "name": "Coder Store",
       "isActive":true,
       "description": "Simmuulate a ecommerce with users MYSQL",
@@ -353,18 +334,6 @@
         "Python", "Express"
       ],
       "url": "https://coderstore.onrender.com/"
-<<<<<<< HEAD
-=======
-    },
-    {
-      "name": "Ecommerce",
-      "isActive":true,
-      "description": "SImulate an ecommerce with a chat using sockets and JWT Passport",
-      "highlights": [
-        "Javascript", "Mongoose", "Postman","NPM" ,"Token","Cookies", "Sockets", "CSS","HTML" ,"Sweet Alert", "JWT Passport"
-      ],
-      "url": "https://backend-commerce-dev.onrender.com/"
->>>>>>> e6fbe44586a0eb952c23d9dfecea0d2b2f459f4a
     }
   ]
   }
