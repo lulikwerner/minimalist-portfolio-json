@@ -164,7 +164,7 @@
       ]
     },
     {
-      "name": "GIT",
+      "name": "PHP",
       "level": "Master",
       "keywords": [
         "HTML",
@@ -311,7 +311,7 @@
     {
       "name": "Ecommerce",
       "isActive":true,
-      "description": "SImulate an ecommerce with a chat using sockets and JWT Passport",
+      "description": "Simulate an ecommerce with a chat using sockets and JWT Passport",
       "highlights": [
         "Javascript", "Mongoose", "Postman","NPM" ,"Token","Cookies", "Sockets", "CSS","HTML" ,"Sweet Alert", "JWT Passport"
       ],
