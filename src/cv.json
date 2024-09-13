@@ -282,6 +282,15 @@
       "url": "https://www.zulki.pro/"
     },
     {
+      "name": "GEO-ARG",
+      "isActive":true,
+      "description": " Landing page for a GEOSYNTHETICS company ",
+      "highlights": [
+      "Wordpress", "Javascript", "PHP", "Aiseesoft", "Google-API", "Captcha-API", "CSS", "WireFramer"
+      ],
+      "url": "https://geo-arg.com.ar/"
+    },
+    {
       "name": "CAC-Movies",
       "isActive":true,
       "description": " Netflix simulator ",
