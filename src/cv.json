@@ -268,7 +268,7 @@
       "isActive":true,
       "description": "Web site for an NGO",
       "highlights": [
-        "Wordpress", "PHP", "Javascript", "CSS"
+        "Wordpress", "PHP", "Javascript", "CSS", "Elementor Pro"
       ],
       "url": "https://agendaantartica.org/en/home/"
     },
@@ -277,7 +277,7 @@
       "isActive":true,
       "description": " Ecommerce for a retail company ",
       "highlights": [
-      "Wordpress", "Javascript", "PHP", "Woocommerce", "API", "ML", "CSS"
+      "Wordpress", "Javascript", "PHP", "Woocommerce", "API", "ML", "CSS","Astra"
       ],
       "url": "https://www.zulki.pro/"
     },
@@ -286,7 +286,7 @@
       "isActive":true,
       "description": " Landing page for a GEOSYNTHETICS company ",
       "highlights": [
-      "Wordpress", "Javascript", "PHP", "Aiseesoft", "Google-API", "Captcha-API", "CSS", "WireFramer"
+      "Wordpress", "Javascript", "PHP", "Aiseesoft", "Google-API", "Captcha-API", "CSS", "WireFramer","Astra"
       ],
       "url": "https://geo-arg.com.ar/"
     },
